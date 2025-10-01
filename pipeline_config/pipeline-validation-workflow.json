@@ -3,10 +3,10 @@
   "name": "Demo Pipeline Validation Workflow with Conditional Execution - 2025-10-01",
   "email_notifications": {
     "on_failure": [
-      "ducvuchicago@gmail.com"
+      "labuser11908112_1759349500@vocareum.com"
     ],
     "on_success": [
-      "ducvuchicago@gmail.com"
+      "labuser11908112_1759349500@vocareum.com"
     ]
   },
   "tasks": [
@@ -21,7 +21,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "ducvuchicago@gmail.com"
+          "labuser11908112_1759349500@vocareum.com"
         ]
       }
     },
@@ -37,7 +37,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "ducvuchicago@gmail.com"
+          "labuser11908112_1759349500@vocareum.com"
         ]
       }
     },
@@ -53,7 +53,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "ducvuchicago@gmail.com"
+          "labuser11908112_1759349500@vocareum.com"
         ]
       }
     },
@@ -84,7 +84,7 @@
       },
       "email_notifications": {
         "on_success": [
-          "ducvuchicago@gmail.com"
+          "labuser11908112_1759349500@vocareum.com"
         ]
       }
     },
@@ -115,7 +115,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "ducvuchicago@gmail.com"
+          "labuser11908112_1759349500@vocareum.com"
         ]
       }
     },
@@ -131,7 +131,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "ducvuchicago@gmail.com"
+          "labuser11908112_1759349500@vocareum.com"
         ]
       }
     }
